@@ -3,6 +3,8 @@
 A minimal Angular 22 app that embeds the Qodalis CLI web terminal from the published `@qodalis/*` npm packages.
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/qodalis-solutions/qodalis-cli-angular-example)
+[![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/qodalis-solutions/qodalis-cli-angular-example)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/qodalis-solutions/qodalis-cli-angular-example)
 [![Build](https://github.com/qodalis-solutions/qodalis-cli-angular-example/actions/workflows/build.yml/badge.svg)](https://github.com/qodalis-solutions/qodalis-cli-angular-example/actions/workflows/build.yml)
 [![npm](https://img.shields.io/npm/v/@qodalis/angular-cli?label=%40qodalis%2Fangular-cli)](https://www.npmjs.com/package/@qodalis/angular-cli)
 
